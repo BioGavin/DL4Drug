@@ -1,0 +1,5 @@
+# img
+/img/*.xmind
+
+# source
+/molecular_generation/junction_tree_variational_autoencoder/icml18-jtnn
