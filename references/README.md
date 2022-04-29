@@ -83,6 +83,28 @@ Shitong Luo, Jiaqi Guan, Jianzhu Ma, Jian Peng. NIPS 2022.
 
 
 
+## DL4Protein
+
+- [A deep learning genome-mining strategy for biosynthetic gene cluster prediction](https://academic.oup.com/nar/article-pdf/47/18/e110/30070680/gkz654.pdf)
+
+Geoffrey D. Hannigan, David Prihoda, Andrej Palicka, Christopher H. Woelk, Danny A. Bitton. NAR 2019.
+
+- [Machine learning discovery of missing links that mediate alternative branches to plant alkaloids](https://www.nature.com/articles/s41467-022-28883-8.pdf)
+
+Christopher J. Vavricka, Shunsuke Takahashi, Naoki Watanabe,  Michihiro Araki, Tomohisa Hasunuma. NC 2022.
+
+- [Using deep learning to annotate the protein universe](https://www.biorxiv.org/content/10.1101/626507.full.pdf)
+
+Maxwell L. Bileschi, David Belanger, Drew Bryant, Lucy J. Colwell. NBT 2022.
+
+- [Learning meaningful representations of protein sequences](https://www.nature.com/articles/s41467-022-29443-w.pdf)
+
+Nicki Skafte Detlefsen, Søren Hauberg, Wouter Boomsma. NC 2022.
+
+
+
+
+
 ## Deep Learning Technology
 
 - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf)

@@ -36,7 +36,11 @@
 
 
 
+## DL4Protein
 
+- [DeepBGC](dl4protein/DeepBGC)
+
+- [ProtCNN](dl4protein/ProtCNN)
 
 
 
