@@ -8,4 +8,5 @@
 
 # Learn TorchProtein with Examples
 
-- [Tutorial 1 - Protein Data Structure](./Tutorial 1 - Protein Data Structure.ipynb)
+- [Tutorial 1 - Protein Data Structure](Tutorial%201%20-%20Protein%20Data%20Structure.ipynb)
+
