@@ -24,7 +24,7 @@
 
 - [3DMol-Net](molecular_representations/graph-based_molecular_representations/3DMol-Net)
 
-- [GDL on Molecular Representations](molecular_representations/geometry-based_molecular_representations/GDL_on_molecular_representations) 📍
+- [GDL on Molecular Representations](molecular_representations/geometry-based_molecular_representations/GDL_on_molecular_representations) 
 
 
 
@@ -42,11 +42,13 @@
 
 - [ProtCNN](dl4protein/ProtCNN)
 
+- [TorchProtein](dl4protein/TorchProtein)
+
 
 
 ## Deep Learning Technology
 
-- [Geometric Deep Learning](deep_learning_technology/GDL) 📍
+- [Geometric Deep Learning](deep_learning_technology/GDL)
 
 
 
